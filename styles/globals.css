@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{--muted:#6b7280}
+body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial}
+.lead{font-weight:600}
+.soft-appear{opacity:0;transform:translateY(8px);transition:all .5s ease-out}
+.soft-appear.show{opacity:1;transform:none}
+
+/* small utility for hero image sizing */
+@media(min-width:1024px){.hero-image{height:480px}}

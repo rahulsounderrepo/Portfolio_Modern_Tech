@@ -1,0 +1,13 @@
+{
+  "siteName": "Rahul Sounder",
+  "title": "Rahul Sounder — Senior Manager, Data & Gen AI Engineering",
+  "description": "Executive portfolio — editable via admin JSON.",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/rahul-sounder",
+    "github": "https://github.com/rahulsounder",
+    "medium": "https://medium.com/@rahulsounder",
+    "email": "rahul.sounder@email.com"
+  },
+  "resume": "/resume-Rahul-Sounder.pdf",
+  "portrait": "/assets/profile.jpg"
+}
